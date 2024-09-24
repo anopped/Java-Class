@@ -7,6 +7,7 @@ public class ObjectLifeCycle
         obj1 = new String("dang");
 
         System.out.println(obj1);
+        
     }
     
 }
